@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@minecraft/core-build-tasks": "^5.5.0"
+  }
+}
